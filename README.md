@@ -13,9 +13,9 @@ Queste soluzioni sono parte del lavoro di tesi intitolato "Sanitizzazione di bas
 
 ## Configuration
 Prima di eseguire gli script, assicurati di avere un file `.env` nella tua directory radice con i seguenti contenuti:
-NEO4J_URI=tuo_uri_neo4j
-NEO4J_USER=tuo_username
-NEO4J_PASSWORD=tua_password
+NEO4J_URI=uri_neo4j
+NEO4J_USER=username
+NEO4J_PASSWORD=password
 
 
 ## randomSel.ts
