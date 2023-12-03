@@ -1,4 +1,3 @@
-# Sanitizzazione
 # Sanitizzazione di Basi di Dati a Grafo
 
 ## About
